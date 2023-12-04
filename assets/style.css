@@ -1,0 +1,33 @@
+
+body {
+    background-color: #f0f2f5;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: #000000;
+}
+
+#obs {
+    text-align: center;
+    font-weight: lighter;
+}
+
+#lista_lojas {
+    margin-top: 100px;
+}
+
+p {
+    text-align: center;
+    color: #4b4f56;
+}
